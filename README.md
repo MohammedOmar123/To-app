@@ -1,2 +1,2 @@
 # To-app
-Simple to do app using PHP and MySql
+Simple To Do App using PHP and MySql
